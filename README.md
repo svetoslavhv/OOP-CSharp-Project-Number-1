@@ -110,4 +110,30 @@ create item armor MineClothes blackmarsh
 create traveller pesho whiterun
 create merchant kiro whiterun
 pesho inventory
-pesho money**** pesho pickup ****pesho inventory**** pesho travel riften ****pesho drop**** create shopkeeper joro riften ****joro pickup**** joro inventory ****pesho buy theArmor joro**** pesho money ****pesho sell theArmor joro**** pesho inventory ****kiro travel riften**** kiro buy theArmor joro ****pesho buy theArmor kiro**** kiro money ****kiro travel blackmarsh**** kiro gather x ****kiro inventory**** kiro pickup ****kiro gather gatheredAtBlackmarsh**  **kiro travel cidna**** kiro gather gatheredAtCidna ****kiro inventory**** kiro craft weapon craftedWeapon ****kiro craft armor craftedArmor**** kiro inventory ****end** | **empty**** 100 ****theArmor**** theArmor ****95**** empty ****100**** empty ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****craftedWeapon**** craftedArmor** |
+pesho money
+pesho pickup
+pesho inventory
+pesho travel riften
+pesho drop
+create shopkeeper joro riften
+joro pickup
+joro inventory
+pesho buy theArmor joro
+pesho money
+pesho sell theArmor joro
+pesho inventory
+kiro travel riften
+kiro buy theArmor joro
+pesho buy theArmor kiro
+kiro money
+kiro travel blackmarsh
+kiro gather x
+kiro inventory
+kiro pickup
+kiro gather gatheredAtBlackmarsh
+kiro travel cidna
+kiro gather gatheredAtCidna 
+kiro inventory
+kiro craft weapon craftedWeapon
+kiro craft armor craftedArmor
+kiro inventory ****end** | **empty**** 100 ****theArmor**** theArmor ****95**** empty ****100**** empty ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****craftedWeapon**** craftedArmor** |
