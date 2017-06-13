@@ -136,4 +136,16 @@ kiro gather gatheredAtCidna
 kiro inventory
 kiro craft weapon craftedWeapon
 kiro craft armor craftedArmor
-kiro inventory ****end** | **empty**** 100 ****theArmor**** theArmor ****95**** empty ****100**** empty ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****craftedWeapon**** craftedArmor** |
+kiro inventory
+end|
+empty
+100
+theArmor
+theArmor
+95
+empty
+100
+empty
+Axe
+MineClothes
+gatheredAtBlackmarsh**** gatheredAtCidna ****Axe**** MineClothes ****gatheredAtBlackmarsh**** gatheredAtCidna ****craftedWeapon**** craftedArmor** |
