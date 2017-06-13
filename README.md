@@ -98,3 +98,4 @@ You should not concern yourself with handling input and output data – the engi
 - In the input, all locations will be created before all other objects
 - If for some reason a command is illegal (i.e. trying to sell to someone in a different location), just skip it
 
+![oop-taskmerged](https://user-images.githubusercontent.com/12698693/27098218-787b411c-507f-11e7-9c01-a0ca873d24e8.jpg)
